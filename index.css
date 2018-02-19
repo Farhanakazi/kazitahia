@@ -1,0 +1,117 @@
+.navbar-default {
+    background-color: black;
+    border-color: #e7e7e7;
+}
+
+.navbar {
+    position: relative;
+    min-height: 70px;
+    
+    border: 1px solid transparent;
+    font-family: inherit;
+    font-weight: bold;
+    border-radius: 0px;
+    min-width: 100%;
+    
+}
+
+.navbar-nav>li>a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+        color: white;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: -15px;
+    padding: 20px;
+    color: white;
+   
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.navbar-brand>img {
+    display: block;
+    height: 40px;
+    width: 40px;
+    margin-top: -10px;
+}
+
+.section2{
+    background-image: url('images/nostalgic_blue_background_06_hd_pictures_169782.jpg');
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: -20px;
+}
+.awsm{
+    padding: 70px;
+    color: white;
+    text-align: center;
+}
+.about_head {
+   
+    text-align: center;
+    font-weight: bold;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+.about_icon{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 100px;
+   
+}
+.section4{
+    
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('images/keyboard.jpg');
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+  
+  
+
+}
+
+.icon{
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background: white;
+    color: black;
+    padding: 20px;
+}
+
+.lastsection{
+    height: auto;
+    background: greenyellow;
+    padding-bottom: 50px;
+   
+}
+.lastcol{
+    font-weight: bold;
+    color: white;
+   
+}
+.list{
+    list-style: none;
+}
+.lasticon{
+    height: 40px;
+    width: 50px;
+    font-size: 25px;
+    padding: 15px;
+    background: white;
+    color: #262626;
+    border-radius: 10px;
+    margin-right: 10px;
+}
